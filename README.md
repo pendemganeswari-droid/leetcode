@@ -8,6 +8,7 @@
 | [0577-employee-bonus](https://github.com/pendemganeswari-droid/leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/pendemganeswari-droid/leetcode/tree/master/0584-find-customer-referee) |
 | [0601-human-traffic-of-stadium](https://github.com/pendemganeswari-droid/leetcode/tree/master/0601-human-traffic-of-stadium) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/pendemganeswari-droid/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Array
 |  |
 | ------- |
