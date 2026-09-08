@@ -13,6 +13,7 @@
 | ------- |
 | [0198-house-robber](https://github.com/pendemganeswari-droid/leetcode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/pendemganeswari-droid/leetcode/tree/master/0283-move-zeroes) |
+| [0498-diagonal-traverse](https://github.com/pendemganeswari-droid/leetcode/tree/master/0498-diagonal-traverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,4 +42,12 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/pendemganeswari-droid/leetcode/tree/master/0198-house-robber) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/pendemganeswari-droid/leetcode/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/pendemganeswari-droid/leetcode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
