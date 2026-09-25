@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/pendemganeswari-droid/leetcode/tree/master/0036-valid-sudoku) |
 | [0198-house-robber](https://github.com/pendemganeswari-droid/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/pendemganeswari-droid/leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/pendemganeswari-droid/leetcode/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/pendemganeswari-droid/leetcode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/pendemganeswari-droid/leetcode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/pendemganeswari-droid/leetcode/tree/master/0498-diagonal-traverse) |
 ## Simulation
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pendemganeswari-droid/leetcode/tree/master/0200-number-of-islands) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/pendemganeswari-droid/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
