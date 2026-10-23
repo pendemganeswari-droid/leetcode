@@ -17,6 +17,7 @@
 | [0036-valid-sudoku](https://github.com/pendemganeswari-droid/leetcode/tree/master/0036-valid-sudoku) |
 | [0198-house-robber](https://github.com/pendemganeswari-droid/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/pendemganeswari-droid/leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/pendemganeswari-droid/leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/pendemganeswari-droid/leetcode/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/pendemganeswari-droid/leetcode/tree/master/0498-diagonal-traverse) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pendemganeswari-droid/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -68,4 +69,28 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pendemganeswari-droid/leetcode/tree/master/0036-valid-sudoku) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pendemganeswari-droid/leetcode/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pendemganeswari-droid/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pendemganeswari-droid/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pendemganeswari-droid/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pendemganeswari-droid/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pendemganeswari-droid/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
