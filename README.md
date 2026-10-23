@@ -22,6 +22,7 @@
 | [0498-diagonal-traverse](https://github.com/pendemganeswari-droid/leetcode/tree/master/0498-diagonal-traverse) |
 | [0896-monotonic-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0896-monotonic-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pendemganeswari-droid/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/pendemganeswari-droid/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
