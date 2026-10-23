@@ -20,6 +20,7 @@
 | [0204-count-primes](https://github.com/pendemganeswari-droid/leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/pendemganeswari-droid/leetcode/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/pendemganeswari-droid/leetcode/tree/master/0498-diagonal-traverse) |
+| [0896-monotonic-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0896-monotonic-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pendemganeswari-droid/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
