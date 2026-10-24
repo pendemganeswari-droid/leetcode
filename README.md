@@ -26,6 +26,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pendemganeswari-droid/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pendemganeswari-droid/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1991-find-the-middle-index-in-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,4 +108,5 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/pendemganeswari-droid/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
