@@ -109,4 +109,12 @@
 | [0724-find-pivot-index](https://github.com/pendemganeswari-droid/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/pendemganeswari-droid/leetcode/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/pendemganeswari-droid/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
