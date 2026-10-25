@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pendemganeswari-droid/leetcode/tree/master/0036-valid-sudoku) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pendemganeswari-droid/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/pendemganeswari-droid/leetcode/tree/master/0796-rotate-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pendemganeswari-droid/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String Matching
 |  |
 | ------- |
