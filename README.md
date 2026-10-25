@@ -30,6 +30,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/pendemganeswari-droid/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pendemganeswari-droid/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pendemganeswari-droid/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -115,6 +116,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/pendemganeswari-droid/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pendemganeswari-droid/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pendemganeswari-droid/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/pendemganeswari-droid/leetcode/tree/master/0796-rotate-string) |
