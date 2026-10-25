@@ -1,19 +1,17 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
         int n=sentence.length();
-        for(char ch='a';ch<='z';ch++){
-        int found=0;
+        int[]freq=new int[26];
         for(int i=0;i<n;i++)
         {
-            if(ch==sentence.charAt(i)){
-                 found=1;
-                 break;
+            char ch=sentence.charAt(i);
+            freq[ch-97]++;
+        }
+        for(int i=0;i<26;i++)
+        {
+            if(freq[i]==0){
+                return false;
             }
-        }
-
-        if(found==0){
-        return false; 
-        }
         }
         return true;
     }
