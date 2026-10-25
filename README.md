@@ -32,6 +32,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pendemganeswari-droid/leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pendemganeswari-droid/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/pendemganeswari-droid/leetcode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pendemganeswari-droid/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/pendemganeswari-droid/leetcode/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pendemganeswari-droid/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String Matching
