@@ -17,6 +17,7 @@
 | [0036-valid-sudoku](https://github.com/pendemganeswari-droid/leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/pendemganeswari-droid/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pendemganeswari-droid/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/pendemganeswari-droid/leetcode/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/pendemganeswari-droid/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/pendemganeswari-droid/leetcode/tree/master/0200-number-of-islands) |
@@ -138,4 +139,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pendemganeswari-droid/leetcode/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/pendemganeswari-droid/leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
