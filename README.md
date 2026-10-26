@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pendemganeswari-droid/leetcode/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/pendemganeswari-droid/leetcode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/pendemganeswari-droid/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/pendemganeswari-droid/leetcode/tree/master/0200-number-of-islands) |
@@ -59,6 +60,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pendemganeswari-droid/leetcode/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/pendemganeswari-droid/leetcode/tree/master/0198-house-robber) |
 ## Matrix
 |  |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/pendemganeswari-droid/leetcode/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pendemganeswari-droid/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
