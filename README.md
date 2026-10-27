@@ -16,6 +16,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/pendemganeswari-droid/leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/pendemganeswari-droid/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/pendemganeswari-droid/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pendemganeswari-droid/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/pendemganeswari-droid/leetcode/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0189-rotate-array) |
@@ -33,6 +34,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/pendemganeswari-droid/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/pendemganeswari-droid/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pendemganeswari-droid/leetcode/tree/master/0283-move-zeroes) |
@@ -134,6 +136,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/pendemganeswari-droid/leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/pendemganeswari-droid/leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -143,4 +146,12 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/pendemganeswari-droid/leetcode/tree/master/0134-gas-station) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pendemganeswari-droid/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pendemganeswari-droid/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
