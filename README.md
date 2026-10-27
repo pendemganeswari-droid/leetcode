@@ -27,6 +27,7 @@
 | [0498-diagonal-traverse](https://github.com/pendemganeswari-droid/leetcode/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/pendemganeswari-droid/leetcode/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0896-monotonic-array) |
+| [0912-sort-an-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pendemganeswari-droid/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pendemganeswari-droid/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -138,10 +139,12 @@
 | ------- |
 | [0075-sort-colors](https://github.com/pendemganeswari-droid/leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/pendemganeswari-droid/leetcode/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pendemganeswari-droid/leetcode/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -154,4 +157,24 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pendemganeswari-droid/leetcode/tree/master/0075-sort-colors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
