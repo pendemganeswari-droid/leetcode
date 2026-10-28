@@ -16,6 +16,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/pendemganeswari-droid/leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/pendemganeswari-droid/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/pendemganeswari-droid/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pendemganeswari-droid/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pendemganeswari-droid/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/pendemganeswari-droid/leetcode/tree/master/0134-gas-station) |
@@ -144,6 +145,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/pendemganeswari-droid/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pendemganeswari-droid/leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/pendemganeswari-droid/leetcode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/pendemganeswari-droid/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -164,6 +166,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/pendemganeswari-droid/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pendemganeswari-droid/leetcode/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
