@@ -34,6 +34,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pendemganeswari-droid/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/pendemganeswari-droid/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/pendemganeswari-droid/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/pendemganeswari-droid/leetcode/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pendemganeswari-droid/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/pendemganeswari-droid/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 ## String Matching
 |  |
 | ------- |
