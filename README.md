@@ -34,6 +34,7 @@
 | [0912-sort-an-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pendemganeswari-droid/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/pendemganeswari-droid/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pendemganeswari-droid/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/pendemganeswari-droid/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -95,6 +96,7 @@
 | [0036-valid-sudoku](https://github.com/pendemganeswari-droid/leetcode/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/pendemganeswari-droid/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/pendemganeswari-droid/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1512-number-of-good-pairs](https://github.com/pendemganeswari-droid/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pendemganeswari-droid/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
@@ -103,6 +105,7 @@
 | [0009-palindrome-number](https://github.com/pendemganeswari-droid/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pendemganeswari-droid/leetcode/tree/master/0204-count-primes) |
+| [1512-number-of-good-pairs](https://github.com/pendemganeswari-droid/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -197,4 +200,5 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pendemganeswari-droid/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0912-sort-an-array) |
+| [1512-number-of-good-pairs](https://github.com/pendemganeswari-droid/leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
