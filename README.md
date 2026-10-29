@@ -37,6 +37,7 @@
 | [1512-number-of-good-pairs](https://github.com/pendemganeswari-droid/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pendemganeswari-droid/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/pendemganeswari-droid/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/pendemganeswari-droid/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Two Pointers
 |  |
@@ -98,6 +99,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/pendemganeswari-droid/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/pendemganeswari-droid/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pendemganeswari-droid/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/pendemganeswari-droid/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [0189-rotate-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pendemganeswari-droid/leetcode/tree/master/0204-count-primes) |
 | [1512-number-of-good-pairs](https://github.com/pendemganeswari-droid/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/pendemganeswari-droid/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Enumeration
 |  |
 | ------- |
@@ -114,6 +117,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pendemganeswari-droid/leetcode/tree/master/0204-count-primes) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/pendemganeswari-droid/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Primality Test
 |  |
 | ------- |
@@ -201,4 +205,5 @@
 | [0451-sort-characters-by-frequency](https://github.com/pendemganeswari-droid/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0912-sort-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pendemganeswari-droid/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/pendemganeswari-droid/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 <!---LeetCode Topics End-->
