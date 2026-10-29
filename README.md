@@ -16,6 +16,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pendemganeswari-droid/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/pendemganeswari-droid/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/pendemganeswari-droid/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/pendemganeswari-droid/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/pendemganeswari-droid/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pendemganeswari-droid/leetcode/tree/master/0075-sort-colors) |
@@ -95,6 +96,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pendemganeswari-droid/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/pendemganeswari-droid/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/pendemganeswari-droid/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/pendemganeswari-droid/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/pendemganeswari-droid/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/pendemganeswari-droid/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -139,6 +141,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pendemganeswari-droid/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/pendemganeswari-droid/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/pendemganeswari-droid/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pendemganeswari-droid/leetcode/tree/master/0242-valid-anagram) |
@@ -154,6 +157,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pendemganeswari-droid/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pendemganeswari-droid/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pendemganeswari-droid/leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/pendemganeswari-droid/leetcode/tree/master/0242-valid-anagram) |
