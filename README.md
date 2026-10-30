@@ -34,6 +34,7 @@
 | [0724-find-pivot-index](https://github.com/pendemganeswari-droid/leetcode/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0912-sort-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/pendemganeswari-droid/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pendemganeswari-droid/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/pendemganeswari-droid/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/pendemganeswari-droid/leetcode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/pendemganeswari-droid/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## String
@@ -218,4 +220,9 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/pendemganeswari-droid/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/pendemganeswari-droid/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/pendemganeswari-droid/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
