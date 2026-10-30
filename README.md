@@ -30,6 +30,7 @@
 | [0435-non-overlapping-intervals](https://github.com/pendemganeswari-droid/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pendemganeswari-droid/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/pendemganeswari-droid/leetcode/tree/master/0498-diagonal-traverse) |
+| [0643-maximum-average-subarray-i](https://github.com/pendemganeswari-droid/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/pendemganeswari-droid/leetcode/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0912-sort-an-array) |
@@ -213,4 +214,8 @@
 | [0912-sort-an-array](https://github.com/pendemganeswari-droid/leetcode/tree/master/0912-sort-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pendemganeswari-droid/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/pendemganeswari-droid/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/pendemganeswari-droid/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
